@@ -4,12 +4,12 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>MBProgressHUD.xcscheme</key>
+		<key>MBProgressHUD.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-test2.xcscheme</key>
+		<key>Pods-test2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
