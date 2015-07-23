@@ -412,7 +412,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: Rodrigo Larrosa (L42L5RQV69)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Rodrigo Larrosa (L42L5RQV69)";
 				INFOPLIST_FILE = test2/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "d1c5dfcb-3fe3-4adb-b5b6-e80215dd9e7d";
@@ -427,7 +427,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: Rodrigo Larrosa (L42L5RQV69)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Rodrigo Larrosa (L42L5RQV69)";
 				INFOPLIST_FILE = test2/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "d1c5dfcb-3fe3-4adb-b5b6-e80215dd9e7d";
